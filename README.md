@@ -11,7 +11,7 @@ This is a non official modified edition of PoseMod3 that helps integrating the g
 
 By adding a non-steam game to steam (being `YandereSimulator.exe`) it will let you track your playtime (with client mods), take screenshots, and easily launch the game when in Big Picture mode.
 
-This version of PoseMod was edited to instead of launch a specific instance, it will run the game through steam and inject the mod that way. In my mind, it's similar to the way [Unverum](https://gamebanana.com/tools/7162) or [tModLauncher](steam://launch/1281930/Dialog) works.
+This version of PoseMod was edited to instead of launch a specific instance, it will run the game through steam and inject the mod that way. In my mind, it's similar to the way [Unverum](https://gamebanana.com/tools/7162) or [tModLauncher](https://store.steampowered.com/app/1281930/tModLoader/) works.
 
 Of course you can add this to your steam library as well as Yandere Simulator as non-steam games so you can play the non-modded version or the modded version with ease.
 
