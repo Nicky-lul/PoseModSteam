@@ -4,7 +4,7 @@ If you want install isntructions, scroll down to `# Installing`
 
 ## PoseMod
 
-[PoseMod](https://mega.nz/folder/OFAiyZAL#jAmt_7c63A3Fwm60Pl_5fg/folder/iZgmmCjT/) is an easy to use drop-in ready mod for [Yandere Simulator](YandereSimulator.com).
+[PoseMod](https://mega.nz/folder/OFAiyZAL#jAmt_7c63A3Fwm60Pl_5fg/folder/iZgmmCjT/) is an easy-to-use drop-in ready mod for [Yandere Simulator](YandereSimulator.com).
 It allows for you to move, customize, and pose characters within the game. It's mostly used for making video thumbnails, cheating to test theorys and myths with things like freecam and noclip, or making custom OCs to use in-game (probably the most difficult one).
 
 ## PoseModSteam
