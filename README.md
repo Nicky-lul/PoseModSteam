@@ -25,7 +25,7 @@ If you intend on only playing with a modded version of the gmae through steam, t
 
 It's just like a normal installation of PoseMod:
 
-1. Install the [latest release](https://github.com/Nicky-lul/PoseModSteam/releases/latest).
+1. Install the [latest release](https://github.com/Nicky-lul/PoseModSteam/releases/download/v1/PoseModSteam.zip).
 2. Extract the .zip into a new folder.
 3. Copy and paste the contents of this new folder into the Yandere Simulator directory.
 4. Open Steam and add your `YandereSimulator.exe` as a new non-steam game (if you haven't already)
