@@ -34,5 +34,4 @@ It's just like a normal installation of PoseMod:
 7. Copy the numbers from the url. (Should look like "steam://rungameid/15125533231971041280")
 8. find and open `steam_appid.txt` in your YandereSimulator directory.
 9. Replace everything in it with your numbers. (Should **NOT** say "steam://rungameid/...", it should just be numbers.)
-(OPTIONAL)
-10. Add PoseModSteam64.exe as another non-steam game. 
+10. (*OPTIONAL, but better*) Add PoseModSteam64.exe as another non-steam game. 
