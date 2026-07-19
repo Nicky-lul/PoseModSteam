@@ -34,6 +34,15 @@ It's just like a normal installation of PoseMod:
 9. Replace everything in it with your numbers. (Should **NOT** say "steam://rungameid/...", it should just be numbers.)
 10. (*OPTIONAL, but better*) Add PoseModSteam64.exe as another non-steam game. 
 
+# 💻 Building
+
+If you wanna edit and build your own version, go ahead. There's nothing stopping you, but I'm sure you wanna know how to build...
+
+1. Get [Visual Studio](https://visualstudio.microsoft.com/downloads/) (Not Visual Studio Code).
+2. When installing, get the Desktop development with C++ package.
+3. Open the project through Visual Studio.
+4. Do whatever you'd like!
+
 # 🛣️ Journey
 
 I have no clue why you're reading any further, but I guess here's the proccess I endured while making this..
