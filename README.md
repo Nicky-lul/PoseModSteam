@@ -2,12 +2,12 @@ If you want install isntructions, scroll down to `# Installing`
 
 # PoseModSteam
 
-## PoseMod
+## ⚙️PoseMod
 
 [PoseMod](https://mega.nz/folder/OFAiyZAL#jAmt_7c63A3Fwm60Pl_5fg/folder/iZgmmCjT/) is an easy-to-use drop-in ready mod for [Yandere Simulator](YandereSimulator.com).
 It allows for you to move, customize, and pose characters within the game. It's mostly used for making video thumbnails, cheating to test theorys and myths with things like freecam and noclip, or making custom OCs to use in-game (probably the most difficult one).
 
-## PoseModSteam
+## 🚄PoseModSteam
 
 This is a non official modified edition of PoseMod3 that helps integrating the game with steam more.
 
@@ -17,11 +17,11 @@ This version of PoseMod was edited to instead of launch a specific instance, it 
 
 Of course you can add this to your steam library as well as Yandere Simulator as non-steam games so you can play the non-modded version or the modded version with ease.
 
-## DISCLAIMER
+## ‼️DISCLAIMER
 
 If you intend on only playing with a modded version of the gmae through steam, this is NOT for you. Just get the original PoseMod files [here](https://mega.nz/folder/OFAiyZAL#jAmt_7c63A3Fwm60Pl_5fg/folder/iZgmmCjT/), and add it to steam as a non-steam game.
 
-# Installing
+# ⬇️ Installing
 
 It's just like a normal installation of PoseMod:
 
@@ -36,7 +36,7 @@ It's just like a normal installation of PoseMod:
 9. Replace everything in it with your numbers. (Should **NOT** say "steam://rungameid/...", it should just be numbers.)
 10. (*OPTIONAL, but better*) Add PoseModSteam64.exe as another non-steam game. 
 
-# Journey
+# 🛣️ Journey
 
 I have no clue why you're reading any further, but I guess here's the proccess I endured while making this..
 
