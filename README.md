@@ -1,7 +1,5 @@
 If you want install isntructions, scroll down to `# Installing`
 
-# PoseModSteam
-
 ## ⚙️PoseMod
 
 [PoseMod](https://mega.nz/folder/OFAiyZAL#jAmt_7c63A3Fwm60Pl_5fg/folder/iZgmmCjT/) is an easy-to-use drop-in ready mod for [Yandere Simulator](YandereSimulator.com).
