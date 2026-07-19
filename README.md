@@ -35,3 +35,11 @@ It's just like a normal installation of PoseMod:
 8. find and open `steam_appid.txt` in your YandereSimulator directory.
 9. Replace everything in it with your numbers. (Should **NOT** say "steam://rungameid/...", it should just be numbers.)
 10. (*OPTIONAL, but better*) Add PoseModSteam64.exe as another non-steam game. 
+
+# Journey
+
+I have no clue why you're reading any further, but I guess here's the proccess I endured while making this..
+
+I had yansim running through steam, and I wanted PoseMod, but encountered the issue where I wouldn't get playtime for Yansim when going through PoseMod, it would put that time on PoseMod instead of Yansim. So I got started by asking ChatGPT where to start with reverse engineering an exe, just because I wanted to make it launch through Steam and inject that intance instead of launching it's own instance.
+
+ChatGPT had me install a few tools and we got started searching through decompiled binary. It was a hell of a mess, but we came to the conclusion (after 5 hours) that all it does is just injects a `pmmono64.dll` into a Yandere Simulator instance it ran. That's it. I was pissed to have wasted so much time finding this. ChatGPT had then been just as dumbfounded at this discovery and pretty much said "Right, then making our own .exe to launch this through steam should be easier than ever." and I installed Visual Studio and wrote this code for injecting the instance with PoseMod.
